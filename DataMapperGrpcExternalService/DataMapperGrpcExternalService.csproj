@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Protobuf Include="Protos\greet.proto" GrpcServices="Server" />  
+   <Protobuf Include="Protos\service.proto" GrpcServices="Server" />	 
+	  
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.AspNetCore" Version="2.49.0" />
+    <PackageReference Include="Grpc.HealthCheck" Version="2.58.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    
+	  
+  </ItemGroup>
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="log4net">
+	    <HintPath>lib\log4net.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Peregrine.DataMapper.Api">
+	    <HintPath>lib\Peregrine.DataMapper.Api.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Peregrine.DataMapper.Core">
+	    <HintPath>lib\Peregrine.DataMapper.Core.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Peregrine.DataMapper.CsvModule">
+	    <HintPath>lib\Peregrine.DataMapper.CsvModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Peregrine.DataMapper.Expression">
+	    <HintPath>lib\Peregrine.DataMapper.Expression.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Peregrine.DataMapper.JsonModule">
+	    <HintPath>lib\Peregrine.DataMapper.JsonModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Peregrine.DataMapper.Model">
+	    <HintPath>lib\Peregrine.DataMapper.Model.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Peregrine.DataMapper.Service">
+	    <HintPath>lib\Peregrine.DataMapper.Service.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Peregrine.DataMapper.XmlModule">
+	    <HintPath>lib\Peregrine.DataMapper.XmlModule.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LjT0rErSUKW1whnaZJ9MYyrvD/E0m0UmMZK26Z00OzA=",
+  "Source": "DataMapperGrpcExternalService",
+  "BasePath": "_content/DataMapperGrpcExternalService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

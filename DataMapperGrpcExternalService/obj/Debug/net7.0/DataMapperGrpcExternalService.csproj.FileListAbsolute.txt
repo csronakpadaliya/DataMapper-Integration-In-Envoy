@@ -1,0 +1,170 @@
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\appsettings.Development.json
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\appsettings.json
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.exe
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.deps.json
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.runtimeconfig.json
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.dll
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.pdb
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\Google.Protobuf.dll
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Core.Api.dll
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.Client.dll
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.Common.dll
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.AssemblyReference.cache
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.AssemblyInfoInputs.cache
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.AssemblyInfo.cs
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.CoreCompileInputs.cache
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.MvcApplicationPartsAssemblyInfo.cache
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.DataMapperGrpcExternalService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.build.DataMapperGrpcExternalService.props
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DataMapperGrpcExternalService.props
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DataMapperGrpcExternalService.props
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.pack.json
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.build.json
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.development.json
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\scopedcss\bundle\DataMapperGrpcExternalService.styles.css
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.CopyComplete
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.dll
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\refint\DataMapperGrpcExternalService.dll
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.pdb
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.genruntimeconfig.cache
+D:\APIManagement\DataMapperGrpcExternalService\obj\Debug\net7.0\ref\DataMapperGrpcExternalService.dll
+D:\APIManagement\DataMapperGrpcExternalService\bin\Debug\net7.0\GrpcDotNetNamedPipes.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\appsettings.json
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.exe
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.deps.json
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.pdb
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.HealthCheck.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.Common.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.DataMapperGrpcExternalService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.build.DataMapperGrpcExternalService.props
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DataMapperGrpcExternalService.props
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DataMapperGrpcExternalService.props
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\scopedcss\bundle\DataMapperGrpcExternalService.styles.css
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\refint\DataMapperGrpcExternalService.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.pdb
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\obj\Debug\net7.0\ref\DataMapperGrpcExternalService.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\refint\DataMapperGrpcExternalService.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.pdb
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\appsettings.json
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.exe
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.deps.json
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.runtimeconfig.json
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.pdb
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.HealthCheck.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.Common.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\log4net.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Api.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Core.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.CsvModule.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Expression.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.JsonModule.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Model.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Service.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.XmlModule.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.DataMapperGrpcExternalService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.build.DataMapperGrpcExternalService.props
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DataMapperGrpcExternalService.props
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DataMapperGrpcExternalService.props
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\scopedcss\bundle\DataMapperGrpcExternalService.styles.css
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\obj\Debug\net7.0\ref\DataMapperGrpcExternalService.dll
+C:\Users\LENOVO\Downloads\DataMapperGrpcExternalService\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\appsettings.json
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.exe
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.deps.json
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.runtimeconfig.json
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\DataMapperGrpcExternalService.pdb
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.HealthCheck.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Grpc.Net.Common.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\log4net.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Api.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Core.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.CsvModule.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Expression.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.JsonModule.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Model.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Service.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.XmlModule.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.DataMapperGrpcExternalService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.build.DataMapperGrpcExternalService.props
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DataMapperGrpcExternalService.props
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DataMapperGrpcExternalService.props
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\scopedcss\bundle\DataMapperGrpcExternalService.styles.css
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\refint\DataMapperGrpcExternalService.dll
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.pdb
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\DataMapperGrpcExternalService.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\DataMapperGrpcExternalService (1)\DataMapperGrpcExternalService\obj\Debug\net7.0\ref\DataMapperGrpcExternalService.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\log4net.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Api.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Core.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.CsvModule.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Expression.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.JsonModule.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Model.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.Service.dll
+C:\Users\Lenovo\Desktop\DataMapperGrpcExternalService\bin\Debug\net7.0\Peregrine.DataMapper.XmlModule.dll

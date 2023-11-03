@@ -1,0 +1,5 @@
+obj\Debug\net8.0\Protos/Service2.cs \
+obj\Debug\net8.0\Protos/Service2Grpc.cs: C:/Users/Lenovo/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/duration.proto\
+ C:/Users/Lenovo/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/struct.proto\
+ C:/Users/Lenovo/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/wrappers.proto\
+ Protos/service2.proto

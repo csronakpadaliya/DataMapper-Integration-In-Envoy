@@ -1,0 +1,5 @@
+obj\Debug\net6.0\Protos/Service.cs \
+obj\Debug\net6.0\Protos/ServiceGrpc.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/duration.proto\
+ C:/Users/Administrator/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/struct.proto\
+ C:/Users/Administrator/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/wrappers.proto\
+ Protos/service.proto
