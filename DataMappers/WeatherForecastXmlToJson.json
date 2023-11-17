@@ -1,0 +1,206 @@
+{
+  "dataSource": [
+    {
+      "$type": "Peregrine.DataMapper.XmlModule.Model.XmlDataSource, Peregrine.DataMapper.XmlModule",
+      "xmlNamespaces": {
+        "xmlNamespace": []
+      },
+      "templateType": 0,
+      "id": "WeatherForecast-XML",
+      "name": "WeatherForecast-XML",
+      "description": "Source document WeatherForecast-XML type: XML",
+      "uri": "datamapper:xml:WeatherForecast-XML",
+      "dataSourceType": "SOURCE"
+    },
+    {
+      "$type": "Peregrine.DataMapper.JsonModule.Model.JsonDataSource, Peregrine.DataMapper.JsonModule",
+      "id": "WeatherForecast-JSON",
+      "name": "WeatherForecast-JSON",
+      "description": "Target document WeatherForecast-JSON type: JSON",
+      "uri": "datamapper:json:WeatherForecast-JSON",
+      "dataSourceType": "TARGET"
+    }
+  ],
+  "mappings": {
+    "mapping": [
+      {
+        "$type": "Peregrine.DataMapper.Model.Mapping, Peregrine.DataMapper.Model",
+        "inputField": [
+          {
+            "$type": "Peregrine.DataMapper.XmlModule.Model.XmlField, Peregrine.DataMapper.XmlModule",
+            "userCreated": false,
+            "attribute": false,
+            "docId": "WeatherForecast-XML",
+            "path": "/ArrayOfWeatherForecast/WeatherForecast<>/Date",
+            "fieldType": "STRING",
+            "name": "Date"
+          }
+        ],
+        "outputField": [
+          {
+            "$type": "Peregrine.DataMapper.JsonModule.Model.JsonField, Peregrine.DataMapper.JsonModule",
+            "userCreated": false,
+            "docId": "WeatherForecast-JSON",
+            "path": "/<>/date",
+            "fieldType": "DATE_TIME",
+            "name": "date"
+          }
+        ],
+        "id": "mapping.354582",
+        "pageNumber": 0,
+        "targetCollectionOffset": 0,
+        "boxOffsetY": 0
+      },
+      {
+        "$type": "Peregrine.DataMapper.Model.Mapping, Peregrine.DataMapper.Model",
+        "inputField": [
+          {
+            "$type": "Peregrine.DataMapper.XmlModule.Model.XmlField, Peregrine.DataMapper.XmlModule",
+            "userCreated": false,
+            "attribute": false,
+            "docId": "WeatherForecast-XML",
+            "path": "/ArrayOfWeatherForecast/WeatherForecast<>/TemperatureC",
+            "fieldType": "STRING",
+            "name": "TemperatureC"
+          }
+        ],
+        "outputField": [
+          {
+            "$type": "Peregrine.DataMapper.JsonModule.Model.JsonField, Peregrine.DataMapper.JsonModule",
+            "userCreated": false,
+            "docId": "WeatherForecast-JSON",
+            "path": "/<>/temperatureC",
+            "fieldType": "LONG",
+            "name": "temperatureC"
+          }
+        ],
+        "id": "mapping.239906",
+        "pageNumber": 0,
+        "targetCollectionOffset": 0,
+        "boxOffsetY": 0
+      },
+      {
+        "$type": "Peregrine.DataMapper.Model.Mapping, Peregrine.DataMapper.Model",
+        "inputField": [
+          {
+            "$type": "Peregrine.DataMapper.XmlModule.Model.XmlField, Peregrine.DataMapper.XmlModule",
+            "userCreated": false,
+            "attribute": false,
+            "docId": "WeatherForecast-XML",
+            "path": "/ArrayOfWeatherForecast/WeatherForecast<>/TemperatureC",
+            "fieldType": "STRING",
+            "name": "TemperatureC"
+          }
+        ],
+        "outputField": [
+          {
+            "$type": "Peregrine.DataMapper.JsonModule.Model.JsonField, Peregrine.DataMapper.JsonModule",
+            "userCreated": false,
+            "docId": "WeatherForecast-JSON",
+            "path": "/<>/temperatureF",
+            "fieldType": "LONG",
+            "name": "temperatureF"
+          }
+        ],
+        "id": "mapping.147284",
+        "pageNumber": 0,
+        "targetCollectionOffset": 0,
+        "boxOffsetY": 0,
+        "scriptAndAction": {
+          "transformationGroups": [
+            {
+              "scriptActions": [
+                {
+                  "$type": "Peregrine.DataMapper.Model.ScriptAction, Peregrine.DataMapper.Model",
+                  "valueType": 0,
+                  "fieldType": "ANY",
+                  "actionInfo": {
+                    "$type": "Peregrine.DataMapper.Model.MultiplyBy, Peregrine.DataMapper.Model",
+                    "multiplicand": 1.8,
+                    "valueType": 0,
+                    "@type": "MultiplyBy"
+                  },
+                  "actionMultiplicity": "ONE_TO_ONE",
+                  "name": "WeatherForecast-XML:/ArrayOfWeatherForecast/WeatherForecast<>/TemperatureC",
+                  "applyTo": 1,
+                  "actionType": 0
+                },
+                {
+                  "$type": "Peregrine.DataMapper.Model.ScriptAction, Peregrine.DataMapper.Model",
+                  "valueType": 0,
+                  "fieldType": "ANY",
+                  "actionInfo": {
+                    "$type": "Peregrine.DataMapper.Model.AddNumber, Peregrine.DataMapper.Model",
+                    "number": 32.0,
+                    "valueType": 0,
+                    "@type": "AddNumber"
+                  },
+                  "actionMultiplicity": "ONE_TO_ONE",
+                  "name": "WeatherForecast-XML:/ArrayOfWeatherForecast/WeatherForecast<>/TemperatureC",
+                  "applyTo": 1,
+                  "actionType": 0
+                },
+                {
+                  "$type": "Peregrine.DataMapper.Model.ScriptAction, Peregrine.DataMapper.Model",
+                  "valueType": 1,
+                  "fieldType": "ANY",
+                  "actionInfo": {
+                    "$type": "Peregrine.DataMapper.Model.Assign, Peregrine.DataMapper.Model",
+                    "value": "",
+                    "valueType": 1,
+                    "sourceReference": "WeatherForecast-XML:/ArrayOfWeatherForecast/WeatherForecast<>/TemperatureC",
+                    "@type": "Assign"
+                  },
+                  "initialValue": "WeatherForecast-XML:/ArrayOfWeatherForecast/WeatherForecast<>/TemperatureC",
+                  "actionMultiplicity": "ONE_TO_ONE",
+                  "name": "WeatherForecast-JSON:/<>/temperatureF",
+                  "applyTo": 4,
+                  "actionType": 0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "$type": "Peregrine.DataMapper.Model.Mapping, Peregrine.DataMapper.Model",
+        "inputField": [
+          {
+            "$type": "Peregrine.DataMapper.XmlModule.Model.XmlField, Peregrine.DataMapper.XmlModule",
+            "userCreated": false,
+            "attribute": false,
+            "docId": "WeatherForecast-XML",
+            "path": "/ArrayOfWeatherForecast/WeatherForecast<>/Summary",
+            "fieldType": "STRING",
+            "name": "Summary"
+          }
+        ],
+        "outputField": [
+          {
+            "$type": "Peregrine.DataMapper.JsonModule.Model.JsonField, Peregrine.DataMapper.JsonModule",
+            "userCreated": false,
+            "docId": "WeatherForecast-JSON",
+            "path": "/<>/summary",
+            "fieldType": "STRING",
+            "name": "summary"
+          }
+        ],
+        "id": "mapping.949225",
+        "pageNumber": 0,
+        "targetCollectionOffset": 0,
+        "boxOffsetY": 0
+      }
+    ]
+  },
+  "lookupTables": {
+    "lookupTable": []
+  },
+  "constants": {
+    "constant": []
+  },
+  "properties": {
+    "property": []
+  },
+  "name": "UI.0",
+  "customScripts": []
+}

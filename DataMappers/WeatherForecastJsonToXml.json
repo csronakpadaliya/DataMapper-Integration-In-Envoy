@@ -1,0 +1,95 @@
+{
+  "dataSource": [
+    {
+      "$type": "Peregrine.DataMapper.JsonModule.Model.JsonDataSource, Peregrine.DataMapper.JsonModule",
+      "id": "reqIn-JSON",
+      "name": "reqIn-JSON",
+      "description": "Source document reqIn-JSON type: JSON",
+      "uri": "datamapper:json:reqIn-JSON",
+      "dataSourceType": "SOURCE"
+    },
+    {
+      "$type": "Peregrine.DataMapper.XmlModule.Model.XmlDataSource, Peregrine.DataMapper.XmlModule",
+      "xmlNamespaces": {
+        "xmlNamespace": []
+      },
+      "templateType": 0,
+      "id": "reqOut-XML",
+      "name": "reqOut-XML",
+      "description": "Target document reqOut-XML type: XML",
+      "uri": "datamapper:xml:reqOut-XML",
+      "dataSourceType": "TARGET"
+    }
+  ],
+  "mappings": {
+    "mapping": [
+      {
+        "$type": "Peregrine.DataMapper.Model.Mapping, Peregrine.DataMapper.Model",
+        "inputField": [
+          {
+            "$type": "Peregrine.DataMapper.JsonModule.Model.JsonField, Peregrine.DataMapper.JsonModule",
+            "userCreated": false,
+            "docId": "reqIn-JSON",
+            "path": "/name",
+            "fieldType": "STRING",
+            "name": "name"
+          }
+        ],
+        "outputField": [
+          {
+            "$type": "Peregrine.DataMapper.XmlModule.Model.XmlField, Peregrine.DataMapper.XmlModule",
+            "userCreated": false,
+            "attribute": false,
+            "docId": "reqOut-XML",
+            "path": "/Body/Name",
+            "fieldType": "STRING",
+            "name": "Name"
+          }
+        ],
+        "id": "mapping.19659",
+        "pageNumber": 0,
+        "targetCollectionOffset": 0,
+        "boxOffsetY": 0
+      },
+      {
+        "$type": "Peregrine.DataMapper.Model.Mapping, Peregrine.DataMapper.Model",
+        "inputField": [
+          {
+            "$type": "Peregrine.DataMapper.JsonModule.Model.JsonField, Peregrine.DataMapper.JsonModule",
+            "userCreated": false,
+            "docId": "reqIn-JSON",
+            "path": "/surname",
+            "fieldType": "STRING",
+            "name": "surname"
+          }
+        ],
+        "outputField": [
+          {
+            "$type": "Peregrine.DataMapper.XmlModule.Model.XmlField, Peregrine.DataMapper.XmlModule",
+            "userCreated": false,
+            "attribute": false,
+            "docId": "reqOut-XML",
+            "path": "/Body/Surname",
+            "fieldType": "STRING",
+            "name": "Surname"
+          }
+        ],
+        "id": "mapping.310167",
+        "pageNumber": 0,
+        "targetCollectionOffset": 0,
+        "boxOffsetY": 0
+      }
+    ]
+  },
+  "lookupTables": {
+    "lookupTable": []
+  },
+  "constants": {
+    "constant": []
+  },
+  "properties": {
+    "property": []
+  },
+  "name": "UI.0",
+  "customScripts": []
+}
